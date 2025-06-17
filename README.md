@@ -1,13 +1,10 @@
 # Md. Abu Bakar Siddiq Sayem
-
-**Address**: 345/C, West High-Level Road, Lalkhan Bazar, Chittagong  
-**Cell**: +8801727327168, +8801825507837  
-**Email**: [abssayem121194@gmail.com](mailto:abssayem121194@gmail.com)  
-**GitHub**: [https://github.com/abs-sayem](https://github.com/abs-sayem)  
-**LinkedIn**: [https://www.linkedin.com/in/abs-sayem-8a115a144](https://www.linkedin.com/in/abs-sayem-8a115a144)  
-**Research Gate**: [https://www.researchgate.net/profile/Md-Sayem-12](https://www.researchgate.net/profile/Md-Sayem-12)
+345/C, West High-Level Road, Lalkhan Bazar, Chittagong | +8801727327168, +8801825507837 | [abssayem121194@gmail.com](mailto:abssayem121194@gmail.com) | [GitHub](https://github.com/abs-sayem) | [LinkedIn](https://www.linkedin.com/in/abs-sayem-8a115a144) | [Research Gate](https://www.researchgate.net/profile/Md-Sayem-12)
 
 ---
+
+## PERSONAL SUMMARY
+I am a researcher skilled in Artificial Intelligence and Deep Learning. My work focuses on creating innovative solutions for real-world problems like emotion detection and machine translation. I have experience in conducting research, developing projects, and mentoring students. My strengths include teamwork, data analysis, and applying modern technologies effectively. I aim to contribute to advancements in computer science through a post-graduate degree.
 
 ## Skills
 - **Programming Languages**: Python, C  
