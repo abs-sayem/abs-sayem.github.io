@@ -7,7 +7,7 @@
 I am a researcher skilled in Artificial Intelligence and Deep Learning. My work focuses on creating innovative solutions for real-world problems like emotion detection and machine translation. I have experience in conducting research, developing projects, and mentoring students. My strengths include teamwork, data analysis, and applying modern technologies effectively. I aim to contribute to advancements in computer science through a post-graduate degree.
 
 ## Skills
-- **Programming Languages**: Python, C  
+- **Programming Languages**: Python, C, C++
 - **Machine Learning**: TensorFlow, Keras, Colab, PyTorch, OpenCV (cv2), NumPy, Pandas, Matplotlib  
 - **Natural Language Processing**: NLTK, RegEx, Keras, Huggingface, SpaCy, Gensim, OpenAI  
 - **Deep Learning**: CNN, LSTM, Encoder-Decoder, Transformer  
