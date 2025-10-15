@@ -34,7 +34,7 @@ Alchemy Software Limited (November 2020 – Present)
 - **Chat as a Service**: A chatbot service for tasks such as translation, paraphrasing, summarization, plagiarism detection, etc. Integrating key modules for file processing, data preprocessing, and context-aware responses. 
   [Project Link](https://github.com/abs-sayem/chat_as_a_service) 
 
-- **Stress Level Detection**: A Comparison Study of Statistical ML Model vs Pre-difined CNN Model vs Proposed (LSTM+CNN) Model. Proposed an optimal multi-modal deep learning approach to identify the stress level from audio data. Transcribed the audio to text, extract the audio features, calculate a emotion score from text, detect the stress level using these three features.
+- **Stress Level Detection**: A Comparison Study of Statistical ML Model vs Pre-difined CNN Model vs Proposed (LSTM+CNN) Model. Proposed an optimal multi-modal deep learning approach to identify the stress level from audio data. Transcribed the audio to text, extract the audio features, calculate a emotion score from text, detect the stress level using these three features. 
   [Project Link](https://github.com/abs-sayem/stress_level_detection)
 
 - **Sentiment Analysis using BERT**: Analyzes and rates sentiment in text using `bert-base-multilingual-uncased-sentiment`.  
