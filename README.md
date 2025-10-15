@@ -19,18 +19,20 @@ I am a researcher skilled in Artificial Intelligence and Deep Learning. My work 
 **Software Engineer (R&D)**  
 Alchemy Software Limited (November 2020 – Present)  
 
-- Developed "Chat as a Service" – a purpose-built chatbot capable of processing files (PDF, TXT) to answer context-aware queries.  
-- Performed data analysis: collected, cleaned, and analyzed raw data using EDA techniques.  
-- Worked on extracting useful information from CVs (e.g., BdJobs CV).  
-- Fine-tuned Huggingface LLM models for sentiment classification, information extraction, language translation, and topic modeling.  
-- Built neural machine translation using an Encoder-Decoder architecture.  
-- Designed task-specific pipelines (e.g., Data Cleaning, Question-Answering, Sentiment Analysis).  
+- Developed "Chat as a Service" – a purpose-built extractive chatbot capable of processing files (PDF, TXT) and providing context-aware responses to user queries.
+- Executed and managed the data lifecycle: collected, cleaned, and analyzed raw data using Exploratory Data Analysis (EDA) techniques to extract actionable insights.
+- Designed robust web scraping solutions and automated the extraction of relevant information from datasets, including specific work on CVs (e.g., BdJobs CVs).
+- Fine-tuned Huggingface LLM models for diverse NLP tasks, including sentiment classification, information extraction, language translation, and topic modeling.
+- Built and deployed Neural Machine Translation systems using an Encoder-Decoder architecture (e.g., English-Bangla), focusing on linguistic precision and fluency.
+- Designed and created optimized, task-specific pipelines for various NLP applications (e.g., Data Cleaning, Question-Answering, Sentiment Analysis, Text Generation).
+- Managed the end-to-end data process: collect, preprocess, and annotate datasets for training and evaluating NLP models.
+- Worked closely with cross-functional teams to integrate NLP solutions into real-world applications, improving user experiences.
 
 ---
 
 ## Projects
 - **Chat as a Service**: A chatbot service for tasks such as translation, paraphrasing, summarization, and plagiarism detection.  
-  [Project Link](https://github.com/abs-sayem/nlp/tree/main/chat_as_a_service)  
+  [Project Link](https://github.com/abs-sayem/chat_as_a_service)  
 
 - **Sentiment Analysis using BERT**: Analyzes and rates sentiment in text using `bert-base-multilingual-uncased-sentiment`.  
   [Project Link](https://github.com/abs-sayem/nlp/tree/main/sentiment_analysis_using_bert)  
